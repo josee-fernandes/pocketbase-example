@@ -1,6 +1,10 @@
-import { Html, Head, Main, NextScript } from "next/document";
+import { Head, Html, Main, NextScript } from 'next/document'
 
-export default function Document() {
+import { initPocketBase } from '@/lib/pocketbase'
+
+initPocketBase()
+
+const Document: React.FC = () => {
   return (
     <Html lang="en">
       <Head />
@@ -9,5 +13,7 @@ export default function Document() {
         <NextScript />
       </body>
     </Html>
-  );
+  )
 }
+
+export default Document
