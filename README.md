@@ -11,3 +11,4 @@ It should start the local server on port 8090. Then run the app itself by runnin
 `$ pnpm run dev`
 
 This is an extremely basic example of how PocketBase can be used, by storing users and fetching them. Check the full documentation by clicking [here](https://pocketbase.io/docs/).
+You can also check the official demo [here](https://pocketbase.io/demo/).
