@@ -1,5 +1,7 @@
 # PocketBase Example 🧪
 
+![PocketBase](https://github.com/josee-fernandes/pocketbase-example/assets/51970876/d4cd6b88-bd52-4736-a87f-41d5ec1cca57)
+
 You need the PocketBase file to work. You can download it from the [documentation](https://pocketbase.io/docs/).
 
 First, run the database:
